@@ -1,2 +1,2 @@
-# Quaternion-EKF
-EKF implementation that tracks orientation of a rigid body
+# EKF_exercises
+A series of Extended Kalman Filtering exercises done to further my understanding of the algorithm.
